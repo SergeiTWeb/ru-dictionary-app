@@ -19,7 +19,7 @@ A lightweight React-based dictionary app that translates Russian words into mult
 
 ### Use the demo (no setup required)
 
-👉 [Live Demo](#) _(https://sergeitweb.github.io/ru-dictionary-app/)_
+👉 [Live Demo](https://sergeitweb.github.io/ru-dictionary-app/)
 
 ### Run locally (if you have the source)
 
